@@ -1,0 +1,2 @@
+# simpleSlider
+Responsive slider
